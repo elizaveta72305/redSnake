@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "redSnake", "redSnake.vcxproj", "{F5D64AB7-A587-4B9E-9973-46D9120E219A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Debug|x64.ActiveCfg = Debug|x64
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Debug|x64.Build.0 = Debug|x64
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Debug|x86.Build.0 = Debug|Win32
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Release|x64.ActiveCfg = Release|x64
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Release|x64.Build.0 = Release|x64
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Release|x86.ActiveCfg = Release|Win32
+		{F5D64AB7-A587-4B9E-9973-46D9120E219A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D5FD32-C5F0-4B21-8997-2C9DB9F97C53}
+	EndGlobalSection
+EndGlobal
